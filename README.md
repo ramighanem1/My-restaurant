@@ -27,15 +27,7 @@
     Iced tea
     Milkshakes
 
-# wireframe images :
+# wireframe image :
 
-#### **home page:**
+![title](images/Capture.PNG)
 
-![title](images/Capture_1.PNG)
-
-#### **specific dishes menu :** 
-![title](images/Capture_2.PNG)
-
-
-#### **Contact info :**
-![title](images/Capture_3.PNG)
